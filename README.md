@@ -1,5 +1,5 @@
 
-# Capstone Project for the Azure ML Engineer Program
+# Project for Future Ready Talent Internship Program
 
 The goal of this project is to develop two different ML models using the Azure ML platform, and then, deploying the best one as a web service. First, an AutoML model is generated from the Automated ML Azure service, and then, it is compared with a Scikit-learn model developed and tuned using the Python SDK and HyperDrive respectively. Once those models are trained, its results are compared and the one with the best performance is deployed to the web.
 
