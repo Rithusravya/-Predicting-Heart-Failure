@@ -24,7 +24,7 @@ As it was mentioned previously, this data is going to be used to predict heart f
 ### Access
 For training the AutoML model, I registered the dataset from local files using the Datasets Hub in the Azure ML Studio.
 <br><img src=".\images\Dataset.jpg"><br>
-By contrast, I used the following dataset url from github for training the customised model using HyperDrive: https://raw.githubusercontent.com/htrismicristo/Capstone-Project-Azure-ML-Engineer-Microsoft-Udacity/main/heart_failure_clinical_records_dataset.csv
+By contrast, I used the following dataset url from github for training the customised model using HyperDrive: https://raw.githubusercontent.com/RithusravyaJakka/Projectfor FutureReadyTalentInternshipProgram/main/heart_failure_clinical_records_dataset.csv
 <br><img src=".\images\Dataset Exploration.jpg"><br>
 
 ## Automated ML
@@ -136,6 +136,5 @@ The following are some suggestions to improve the model quality:<br>
 * Data cleaning is always a great tool for improving model accuracy, specially as soon as the volume of data increases.
 * Azure cloud resources for monitoring applications, like azure monitor or app insights, could be applied to track the performance of the web service. 
 
-## Screen Recording
-https://youtu.be/QLvereJR4cY
+
 
